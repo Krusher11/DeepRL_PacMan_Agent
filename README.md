@@ -3,12 +3,12 @@
 ## Main Files
 
 - **DQNPacmanAgentV2 -** All the methods relating to the Deep RL agent.
-- **DQNPacmanParametersV2 -** All game parameters
+- **DQNPacmanParametersV2 -** All game parameters.
 - **DQNtesting -** Testing bed of Deep RL agent.
 
 ## Example Usage
 
-Open DQN testing file and change the following paths to their respective location on your device:
+Open DQNtesting file and change the following paths to their respective locations on your device:
 
 ```
 BoardPath = 'C:/Users/User/OneDrive - Stellenbosch University/University/Fourth year/Scripsy/Project_folder_SMP/Pacman_problem/Assets/BoardImages/'
